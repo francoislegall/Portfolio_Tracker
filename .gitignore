@@ -1,0 +1,24 @@
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Variables d'environnement
+.env
+
+# Autres dossiers de travail
+Binance/
+Données de marché/
+Ethereum/
+MEXC/
+Starknet/
+Swissborg/
+
+# Dashboard
+Portfolio Tracker.pbix
+
+# Scripts
+SCRIPT Add crypto price (Daily) - Big Query.py
+SCRIPT Binance Solde Wallet - Big Query.py
+Script Binance solde wallet.xml
+SCRIPT EVM - Solde Wallet - Big Query.py
+SCRIPT MEXC - Solde Wallet - Big Query.py
+SCRIPT Starknet - Solde Wallet - Big Query.py
