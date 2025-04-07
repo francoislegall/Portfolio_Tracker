@@ -11,6 +11,7 @@ Ethereum/
 MEXC/
 Starknet/
 Swissborg/
+.vscode/
 
 # Dashboard
 Portfolio Tracker.pbix
@@ -18,7 +19,7 @@ Portfolio Tracker.pbix
 # Scripts
 SCRIPT Add crypto price (Daily) - Big Query.py
 SCRIPT Binance Solde Wallet - Big Query.py
-Script Binance solde wallet.xml
+SCRIPT - Solde Wallet.xml
 SCRIPT EVM - Solde Wallet - Big Query.py
 SCRIPT MEXC - Solde Wallet - Big Query.py
 SCRIPT Starknet - Solde Wallet - Big Query.py
